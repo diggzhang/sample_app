@@ -1,5 +1,8 @@
 == README
 
+# Ruby on Rails Tutorial Chap.3
+This is the sample application for learning ruby on rails by [diggzhang](http://diggzhang.herokuapp.com)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
